@@ -1,18 +1,18 @@
 branding:
-  name: About Library 
-  org: The New York Times
-  orgDomain: nytimes.com
+  name: TFN Documentation Library 
+  org: Texas Freedom Network
+  orgDomain: tfn.org
   prettyName: About Library
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: A simple documentation site, built from content in Google Docs.
+  tagline: Central place for all our docs.
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
 
 footer:
   helpText: For help contributing or to report a problem, consult <a href="https://github.com/nytimes/library">the Library GitHub repository</a>.
-  defaultEmail: test.user@nytimes.com
+  defaultEmail: reyhan@tfn.org
 
 search:
   placeholder: What do you want to know about Library?

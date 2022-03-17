@@ -6,9 +6,9 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nytimes/library-customization-example.git"
+    "url": "git+https://github.com/reyhan-tfn/tfn-library-customization.git" 
   },
-  "author": "The New York Times",
+  "author": "Texas Freedom Network",
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/nytimes/library-customization-example/issues"

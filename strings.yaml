@@ -1,5 +1,5 @@
 branding:
-  name: TFN Documentation Library 
+  name: TFN Library 
   org: Texas Freedom Network
   orgDomain: tfn.org
   prettyName: About Library
@@ -15,7 +15,7 @@ footer:
   defaultEmail: reyhan@tfn.org
 
 search:
-  placeholder: What do you want to know about Library?
+  placeholder: What are you looking for?
   results:
     none:
       suggestion: To request a new page, submit <a href="https://github.com/nytimes/library">a PR on GitHub</a>.

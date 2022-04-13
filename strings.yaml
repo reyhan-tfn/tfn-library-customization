@@ -6,7 +6,7 @@ branding:
   favicon: /assets/images/library.ico
 
 landing:
-  tagline: Central place for all our docs.
+  tagline: Central place for all TFN digital and technolog docs.
   viewAll: View All Docs
   quickLink: <a href="/get-started">Get started</a>.
 
